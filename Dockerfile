@@ -1,4 +1,4 @@
-FROM alpine:3.2
+FROM alpine
 
 EXPOSE 2525
 ENTRYPOINT ["mb"]
